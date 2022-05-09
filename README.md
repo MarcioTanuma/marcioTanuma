@@ -11,9 +11,9 @@
 
 ### Perfil
  <div>
-  <a href="https://github.com/cleberGraciano">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cleberGraciano&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleberGraciano&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://github.com/MarcioTanuma">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcioTanuma&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcioTanuma&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
  ### Tecnologias
@@ -40,6 +40,6 @@
  
  <div style="display: inline_block">
   
-  ![Snake animation](https://github.com/cleberGraciano/cleberGraciano/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MarcioTanuma/marcioTanuma/blob/output/github-contribution-grid-snake.svg)
   
 </div>
