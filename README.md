@@ -40,6 +40,6 @@
  
  <div style="display: inline_block">
   
-  ![Snake animation](https://github.com/MarcioTanuma/marcioTanuma/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/marcioTanuma/marcioTanuma/blob/output/github-contribution-grid-snake.svg)
   
 </div>
