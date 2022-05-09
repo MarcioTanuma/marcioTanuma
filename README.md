@@ -4,8 +4,8 @@
 <li> 😀 Tenho 51 anos, sou um sênior de idade, mas com muita vontade de aprender. </li>
 <li> 🎓 Minha formação superior é humanas, mas acredito que a tecnologia pode melhorar o mundo. </li>
 <li> 🥰 Amo tudo o que eu faço. </li>
-
- <li> Um pouco da minha história profissional:
+</li>
+ <li> Um pouco da minha história profissional:</li>
 2021 foi ano de me transformar e reinventar.
 Tudo isso eu fiz até 2021 com muito orgulho e paixão🥰:
 Gestão de Recursos Humanos. Vivência de mais 25 anos na área em diversos segmentos (bancário, fintech, contact center, securitário, metalurgia, mercado financeiro, armazenagem alfandegada, logística, hospitalar, tecnologia). Experiência em negociações sindicais. Fusões e aquisições. PDV. Fortes conhecimentos em legislação trabalhista. Implantação e suporte de sistemas de gestão de RH. Gestão de concursos públicos e exames vestibulares.
