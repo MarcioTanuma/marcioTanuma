@@ -30,7 +30,7 @@
   ### Contato
   
  <div>
- <a href="https://www.linkedin.com/in/cleber-batista-graciano-92b0b096/" target="_blank">
+ <a href="https://www.linkedin.com/in/marcio-tanuma-940b3621/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  </div>
@@ -40,6 +40,6 @@
  
  <div style="display: inline_block">
   
-  ![Snake animation](https://github.com/marcioTanuma/marcioTanuma/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MarcioTanuma/marcioTanuma/blob/output/github-contribution-grid-snake.svg)
   
 </div>
