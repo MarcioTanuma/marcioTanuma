@@ -6,7 +6,7 @@
 <li> 💖 Amo tudo o que eu faço. </li>
 </li>
 </ul> 
-Um pouco da minha história profissional: </li>
+<li> Um pouco da minha história profissional: </li>
 2021 foi ano de me transformar e reinventar🏃‍♂️. </li>
 Tudo isso eu fiz até 2021 com muito orgulho e paixão🥰: 
 </li>
