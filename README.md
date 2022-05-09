@@ -25,13 +25,11 @@ Eu sempre acreditei em duas coisas para mudar o mundo: Educação 📚 e Tecnolo
    <img align="center" alt="java" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
    &nbsp;&nbsp;
   <img align="center" alt="MYSQL" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain-wordmark.svg">
-   &nbsp;&nbsp;
-   
+   &nbsp;&nbsp; 
 </div>
  </br>
  
   ### Contato
-  
  <div>
  <a href="https://www.linkedin.com/in/marcio-tanuma-940b3621/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -39,4 +37,3 @@ Eu sempre acreditei em duas coisas para mudar o mundo: Educação 📚 e Tecnolo
  </div>
  </br>
  
-
