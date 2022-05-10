@@ -12,7 +12,8 @@
 &nbsp;&nbsp;&nbsp;&nbsp;Tudo isso eu fiz até 2021 com muito orgulho e paixão🥰: <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Gestão de Recursos Humanos. Vivência de mais 25 anos na área em diversos segmentos (bancário, fintech, contact center, securitário, &nbsp;&nbsp;&nbsp;&nbsp;metalurgia, mercado financeiro, armazenagem alfandegada, logística, hospitalar, tecnologia). Experiência em negociações sindicais. Fusões e &nbsp;&nbsp;&nbsp;&nbsp;aquisições. PDV. Fortes conhecimentos em legislação trabalhista. Implantação e suporte de sistemas de gestão de RH. Gestão de concursos &nbsp;&nbsp;&nbsp;&nbsp;públicos e exames vestibulares. <br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;Chegou 2021 e encarei um desafio e entrei num programa de formação na ZUP IT para DEV Backend Java, e com muito orgulho, esforço e dedicação &nbsp;&nbsp;&nbsp;&nbsp;passei a fazer parte do mundo DEV, loucos por Tecnologia. <br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Chegou 2021 e encarei um desafio e entrei num programa de formação na ZUP IT para DEV Backend Java, e com muito orgulho, esforço e 
+&nbsp;&nbsp;&nbsp;&nbsp;dedicação passei a fazer parte do mundo DEV, loucos por Tecnologia. <br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Eu sempre acreditei em duas coisas para mudar o mundo: Educação 📚 e Tecnologia🖥️, e a ZUP IT🚀 também acredita nisso.
 </ul> 
 
