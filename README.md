@@ -2,7 +2,7 @@
 
 <ul>
 <li> 😀 Tenho 51 anos, sou um sênior de idade, mas com muita vontade de aprender. </li>
-<li> 🎓 Minha formação superior é humanas, mas acredito que a tecnologia pode melhorar o mundo. </li>
+<li> 🎓 Minha formação superior é humanas, mas acredito que a tecnologia e a educação podem melhorar o mundo. </li>
 <li> 💖 Amo tudo o que eu faço. </li>
 </li>
 </ul> 
